@@ -1,4 +1,4 @@
-I study [Next.js](https://nextjs.org/)     
+I learn [Next.js](https://nextjs.org/)     
 with the help of the official 
 tutorial     
 [Learn Next.js](https://nextjs.org/learn?utm_source=next-site&utm_medium=homepage-cta&utm_campaign=home)
